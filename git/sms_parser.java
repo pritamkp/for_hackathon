@@ -1,4 +1,4 @@
-mport java.lang.Math; // header stuff MUST go above the first class
+mport java.lang.Math; // header stuff go above the first class
 import java.util.HashMap;
 
 // our main class becomes a file but the main method is still found
